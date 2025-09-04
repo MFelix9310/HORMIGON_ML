@@ -1,0 +1,731 @@
+2025-09-03 20:44:27,074 - matplotlib - DEBUG - matplotlib data path: C:\Users\FELIX\AppData\Local\Programs\Python\Python312\Lib\site-packages\matplotlib\mpl-data
+2025-09-03 20:44:27,085 - matplotlib - DEBUG - CONFIGDIR=C:\Users\FELIX\.matplotlib
+2025-09-03 20:44:27,088 - matplotlib - DEBUG - interactive is False
+2025-09-03 20:44:27,089 - matplotlib - DEBUG - platform is win32
+2025-09-03 20:44:27,184 - matplotlib - DEBUG - CACHEDIR=C:\Users\FELIX\.matplotlib
+2025-09-03 20:44:27,188 - matplotlib.font_manager - DEBUG - Using fontManager instance from C:\Users\FELIX\.matplotlib\fontlist-v330.json
+2025-09-03 20:44:29,914 - model_handler - INFO - Cargando modelo desde modelo_hormigon_ecuador_v1.pkl
+2025-09-03 20:44:30,336 - model_handler - INFO - Cargando metadata desde modelo_metadata.json
+2025-09-03 20:44:30,337 - model_handler - INFO - Modelo y metadata cargados exitosamente
+2025-09-03 20:44:31,129 - predictor_gui - INFO - Ventana principal inicializada
+2025-09-03 20:44:37,356 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:37,451 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:37,458 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:37,472 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:37,477 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:37,485 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:37,488 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:37,499 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:37,502 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:37,509 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:37,513 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:37,526 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:37,535 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:37,541 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:37,546 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:37,562 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:37,576 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:37,582 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:37,592 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:37,614 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:37,633 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:37,645 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:37,658 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:38,154 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:38,184 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:38,192 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:38,211 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:38,215 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:38,222 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:38,225 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:38,232 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:38,234 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:38,239 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:38,241 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:38,248 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:38,251 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:38,255 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:38,256 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:38,262 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:38,265 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:38,267 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:38,270 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:38,272 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:38,274 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:38,277 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:38,279 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:38,282 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:38,283 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:38,284 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:38,286 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:38,288 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:38,290 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:38,292 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:38,293 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:38,296 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:38,299 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:38,301 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:38,304 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:38,306 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:38,308 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:38,310 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:38,314 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:38,315 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:38,317 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:38,319 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:38,321 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:38,323 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:38,325 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:38,327 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:38,330 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:38,332 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:38,334 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:38,336 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:38,338 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:38,340 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:38,342 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:38,344 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:38,349 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:38,351 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:38,353 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:44:38,359 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:45:30,436 - model_handler - ERROR - Error en prediccion: 'numpy.ndarray' object has no attribute 'predict'
+2025-09-03 20:45:30,436 - predictor_gui - ERROR - Error en predicción: 'numpy.ndarray' object has no attribute 'predict'
+2025-09-03 20:45:41,462 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:45:41,526 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:45:41,528 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:45:41,538 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:45:41,544 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:45:41,546 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:45:41,548 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:45:41,554 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:45:41,557 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:45:41,559 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:45:41,561 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:45:41,565 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:45:41,568 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:45:41,570 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:45:41,572 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:45:41,575 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:45:41,578 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:45:41,580 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:45:41,583 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:45:41,585 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:45:41,588 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:45:41,590 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:45:41,592 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:45:41,595 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:45:41,596 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:45:41,598 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:45:41,601 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:45:41,604 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:45:41,606 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:45:41,608 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:45:41,611 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:45:41,613 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:45:41,615 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:45:41,616 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:45:41,619 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:45:41,621 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:45:41,623 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:45:41,625 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:45:41,627 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:45:41,628 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:45:41,630 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:45:41,632 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:45:41,633 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:45:41,637 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:45:41,639 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:45:41,641 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:45:41,644 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:45:41,646 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:45:41,648 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:45:41,650 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:45:41,653 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:45:41,657 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:45:41,660 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:45:41,662 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:45:41,666 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:45:41,671 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:45:41,673 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:45:41,678 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:45:41,689 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:45:41,693 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:45:41,697 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:45:41,710 - __main__ - ERROR - Excepción no capturada:
+Traceback (most recent call last):
+  File "C:\Users\FELIX\Desktop\HORMIGON_ML\ui_components.py", line 196, in _on_slider_changed
+    self.spinbox.setValue(float_value)
+TypeError: setValue(self, val: int): argument 1 has unexpected type 'float'
+2025-09-03 20:45:42,709 - model_handler - ERROR - Error en prediccion: 'numpy.ndarray' object has no attribute 'predict'
+2025-09-03 20:45:42,710 - predictor_gui - ERROR - Error en predicción: 'numpy.ndarray' object has no attribute 'predict'
+2025-09-03 20:45:47,369 - model_handler - ERROR - Error en prediccion: 'numpy.ndarray' object has no attribute 'predict'
+2025-09-03 20:45:47,369 - predictor_gui - ERROR - Error en predicción: 'numpy.ndarray' object has no attribute 'predict'

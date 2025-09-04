@@ -1,0 +1,29 @@
+{
+  "modelo_info": {
+    "tipo": "RandomForestRegressor",
+    "version": "1.1",
+    "fecha_entrenamiento": "2025-09-03 20:50:44",
+    "variables_entrada": [
+      "Cemento_kg_m3",
+      "Escoria_Alto_Horno_kg_m3",
+      "Ceniza_Volante_kg_m3",
+      "Agua_kg_m3",
+      "Superplastificante_kg_m3",
+      "Agregado_Grueso_kg_m3",
+      "Agregado_Fino_kg_m3",
+      "Edad_dias"
+    ],
+    "variable_salida": "Resistencia_Compresion_kg_cm2"
+  },
+  "metricas": {
+    "r2_score": 0.9866674263696164,
+    "mae_kg_cm2": 12.370060268107144,
+    "cv_score_mean": 0.3431135876113108,
+    "estabilidad": 0.7596319152655955
+  },
+  "datos_entrenamiento": {
+    "num_muestras": 1030,
+    "num_features": 8,
+    "conversion_mpa_kg_cm2": 10.197
+  }
+}

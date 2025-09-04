@@ -1,0 +1,201 @@
+2025-09-03 20:40:24,310 - __main__ - INFO - Aplicación PyQt6 inicializada correctamente
+2025-09-03 20:40:24,311 - model_handler - INFO - Cargando modelo desde modelo_hormigon_ecuador_v1.pkl
+2025-09-03 20:40:25,780 - model_handler - INFO - Cargando metadata desde modelo_metadata.json
+2025-09-03 20:40:25,790 - __main__ - ERROR - Error ejecutando aplicación: type object 'ScrollBarPolicy' has no attribute 'ScrollBarNever'
+2025-09-03 20:42:10,432 - __main__ - INFO - Aplicación PyQt6 inicializada correctamente
+2025-09-03 20:42:10,433 - model_handler - INFO - Cargando modelo desde modelo_hormigon_ecuador_v1.pkl
+2025-09-03 20:42:10,763 - model_handler - INFO - Cargando metadata desde modelo_metadata.json
+2025-09-03 20:42:10,763 - model_handler - INFO - Modelo y metadata cargados exitosamente
+2025-09-03 20:42:12,840 - predictor_gui - INFO - Ventana principal inicializada
+2025-09-03 20:42:13,247 - __main__ - INFO - Ventana principal mostrada
+2025-09-03 20:43:31,151 - __main__ - INFO - Aplicación PyQt6 inicializada correctamente
+2025-09-03 20:43:31,153 - model_handler - INFO - Cargando modelo desde modelo_hormigon_ecuador_v1.pkl
+2025-09-03 20:43:31,529 - model_handler - INFO - Cargando metadata desde modelo_metadata.json
+2025-09-03 20:43:31,530 - model_handler - INFO - Modelo y metadata cargados exitosamente
+2025-09-03 20:43:33,257 - predictor_gui - INFO - Ventana principal inicializada
+2025-09-03 20:43:33,609 - __main__ - INFO - Ventana principal mostrada
+2025-09-03 20:47:53,145 - __main__ - INFO - Aplicación PyQt6 inicializada correctamente
+2025-09-03 20:47:53,148 - model_handler - INFO - Cargando modelo desde modelo_hormigon_ecuador_v1.pkl
+2025-09-03 20:47:53,488 - model_handler - INFO - Cargando metadata desde modelo_metadata.json
+2025-09-03 20:47:53,489 - model_handler - INFO - Modelo y metadata cargados exitosamente
+2025-09-03 20:47:54,205 - predictor_gui - INFO - Ventana principal inicializada
+2025-09-03 20:47:54,553 - __main__ - INFO - Ventana principal mostrada
+2025-09-03 20:48:04,706 - model_handler - ERROR - Error en prediccion: 'numpy.ndarray' object has no attribute 'predict'
+2025-09-03 20:48:04,707 - predictor_gui - ERROR - Error en predicción: 'numpy.ndarray' object has no attribute 'predict'
+2025-09-03 20:51:34,639 - __main__ - INFO - Aplicación PyQt6 inicializada correctamente
+2025-09-03 20:51:34,640 - model_handler - INFO - Cargando modelo desde modelo_hormigon_ecuador_v1.pkl
+2025-09-03 20:51:34,986 - model_handler - INFO - Cargando metadata desde modelo_metadata.json
+2025-09-03 20:51:34,987 - model_handler - INFO - Modelo y metadata cargados exitosamente
+2025-09-03 20:51:36,077 - predictor_gui - INFO - Ventana principal inicializada
+2025-09-03 20:51:36,448 - __main__ - INFO - Ventana principal mostrada
+2025-09-03 20:51:40,411 - model_handler - INFO - Prediccion exitosa: 537.35 kg/cm²
+2025-09-03 20:51:40,496 - model_handler - INFO - Prediccion exitosa: 235.26 kg/cm²
+2025-09-03 20:51:40,526 - model_handler - INFO - Prediccion exitosa: 324.29 kg/cm²
+2025-09-03 20:51:40,557 - model_handler - INFO - Prediccion exitosa: 332.03 kg/cm²
+2025-09-03 20:51:40,586 - model_handler - INFO - Prediccion exitosa: 537.35 kg/cm²
+2025-09-03 20:51:40,616 - model_handler - INFO - Prediccion exitosa: 537.35 kg/cm²
+2025-09-03 20:51:40,649 - model_handler - INFO - Prediccion exitosa: 537.35 kg/cm²
+2025-09-03 20:51:40,678 - model_handler - INFO - Prediccion exitosa: 535.69 kg/cm²
+2025-09-03 20:51:40,707 - model_handler - INFO - Prediccion exitosa: 535.69 kg/cm²
+2025-09-03 20:51:40,737 - model_handler - INFO - Prediccion exitosa: 536.94 kg/cm²
+2025-09-03 20:51:40,766 - model_handler - INFO - Prediccion exitosa: 537.64 kg/cm²
+2025-09-03 20:51:40,798 - model_handler - INFO - Prediccion exitosa: 539.95 kg/cm²
+2025-09-03 20:51:40,828 - model_handler - INFO - Prediccion exitosa: 547.05 kg/cm²
+2025-09-03 20:51:40,830 - predictor_gui - ERROR - Error en predicción: Singular matrix
+2025-09-03 20:53:55,524 - __main__ - INFO - Aplicación PyQt6 inicializada correctamente
+2025-09-03 20:53:55,526 - model_handler - INFO - Cargando modelo desde modelo_hormigon_ecuador_v1.pkl
+2025-09-03 20:53:55,895 - model_handler - INFO - Cargando metadata desde modelo_metadata.json
+2025-09-03 20:53:55,895 - model_handler - INFO - Modelo y metadata cargados exitosamente
+2025-09-03 20:53:56,873 - predictor_gui - INFO - Ventana principal inicializada
+2025-09-03 20:53:57,315 - __main__ - INFO - Ventana principal mostrada
+2025-09-03 20:54:02,339 - model_handler - INFO - Prediccion exitosa: 537.35 kg/cm²
+2025-09-03 20:54:02,419 - model_handler - INFO - Prediccion exitosa: 235.26 kg/cm²
+2025-09-03 20:54:02,449 - model_handler - INFO - Prediccion exitosa: 324.29 kg/cm²
+2025-09-03 20:54:02,479 - model_handler - INFO - Prediccion exitosa: 332.03 kg/cm²
+2025-09-03 20:54:02,510 - model_handler - INFO - Prediccion exitosa: 537.35 kg/cm²
+2025-09-03 20:54:02,540 - model_handler - INFO - Prediccion exitosa: 537.35 kg/cm²
+2025-09-03 20:54:02,571 - model_handler - INFO - Prediccion exitosa: 537.35 kg/cm²
+2025-09-03 20:54:02,600 - model_handler - INFO - Prediccion exitosa: 535.69 kg/cm²
+2025-09-03 20:54:02,630 - model_handler - INFO - Prediccion exitosa: 535.69 kg/cm²
+2025-09-03 20:54:02,660 - model_handler - INFO - Prediccion exitosa: 536.94 kg/cm²
+2025-09-03 20:54:02,688 - model_handler - INFO - Prediccion exitosa: 537.64 kg/cm²
+2025-09-03 20:54:02,717 - model_handler - INFO - Prediccion exitosa: 539.95 kg/cm²
+2025-09-03 20:54:02,748 - model_handler - INFO - Prediccion exitosa: 547.05 kg/cm²
+2025-09-03 20:54:02,751 - predictor_gui - ERROR - Error en predicción: Singular matrix
+2025-09-03 21:07:56,380 - __main__ - INFO - Aplicación PyQt6 inicializada correctamente
+2025-09-03 21:07:56,382 - model_handler_fixed - INFO - Cargando modelo original desde modelo_hormigon_ecuador_v1.pkl
+2025-09-03 21:07:56,707 - model_handler_fixed - INFO - Modelo RandomForestRegressor cargado correctamente
+2025-09-03 21:07:56,707 - model_handler_fixed - INFO - Cargando metadata desde modelo_metadata.json
+2025-09-03 21:07:56,708 - model_handler_fixed - INFO - Modelo y metadata cargados exitosamente
+2025-09-03 21:07:57,664 - predictor_gui - INFO - Ventana principal inicializada
+2025-09-03 21:07:58,015 - __main__ - INFO - Ventana principal mostrada
+2025-09-03 21:08:13,484 - model_handler_fixed - INFO - Prediccion exitosa: 537.35 kg/cm²
+2025-09-03 21:08:13,547 - predictor_gui - ERROR - Error en predicción: 'box_aspect' and 'fig_aspect' must be positive
+2025-09-03 21:20:56,091 - __main__ - INFO - Aplicación PyQt6 inicializada correctamente
+2025-09-03 21:20:56,093 - model_handler_fixed - INFO - Cargando modelo original desde modelo_hormigon_ecuador_v1.pkl
+2025-09-03 21:20:56,420 - model_handler_fixed - INFO - Modelo RandomForestRegressor cargado correctamente
+2025-09-03 21:20:56,420 - model_handler_fixed - INFO - Cargando metadata desde modelo_metadata.json
+2025-09-03 21:20:56,421 - model_handler_fixed - INFO - Modelo y metadata cargados exitosamente
+2025-09-03 21:20:58,419 - predictor_gui - INFO - Ventana principal inicializada
+2025-09-03 21:20:58,820 - __main__ - INFO - Ventana principal mostrada
+2025-09-03 21:21:05,935 - model_handler_fixed - INFO - Prediccion exitosa: 444.46 kg/cm²
+2025-09-03 21:21:09,574 - model_handler_fixed - INFO - Prediccion exitosa: 444.46 kg/cm²
+2025-09-03 21:21:15,364 - model_handler_fixed - INFO - Prediccion exitosa: 537.35 kg/cm²
+2025-09-03 21:21:15,758 - model_handler_fixed - INFO - Prediccion exitosa: 537.35 kg/cm²
+2025-09-03 21:21:15,916 - model_handler_fixed - INFO - Prediccion exitosa: 537.35 kg/cm²
+2025-09-03 21:21:17,740 - model_handler_fixed - INFO - Prediccion exitosa: 444.46 kg/cm²
+2025-09-03 21:21:17,914 - model_handler_fixed - INFO - Prediccion exitosa: 444.46 kg/cm²
+2025-09-03 21:21:18,079 - model_handler_fixed - INFO - Prediccion exitosa: 444.46 kg/cm²
+2025-09-03 21:21:23,815 - model_handler_fixed - INFO - Prediccion exitosa: 444.46 kg/cm²
+2025-09-03 21:24:37,908 - __main__ - INFO - Aplicación PyQt6 inicializada correctamente
+2025-09-03 21:24:37,910 - model_handler_fixed - INFO - Cargando modelo original desde modelo_hormigon_ecuador_v1.pkl
+2025-09-03 21:24:38,223 - model_handler_fixed - INFO - Modelo RandomForestRegressor cargado correctamente
+2025-09-03 21:24:38,223 - model_handler_fixed - INFO - Cargando metadata desde modelo_metadata.json
+2025-09-03 21:24:38,224 - model_handler_fixed - INFO - Modelo y metadata cargados exitosamente
+2025-09-03 21:24:39,950 - predictor_gui - INFO - Ventana principal inicializada
+2025-09-03 21:24:40,306 - __main__ - INFO - Ventana principal mostrada
+2025-09-03 21:24:56,434 - model_handler_fixed - INFO - Prediccion exitosa: 537.35 kg/cm²
+2025-09-03 21:24:59,372 - model_handler_fixed - INFO - Prediccion exitosa: 444.46 kg/cm²
+2025-09-03 21:24:59,651 - model_handler_fixed - INFO - Prediccion exitosa: 444.46 kg/cm²
+2025-09-03 21:24:59,818 - model_handler_fixed - INFO - Prediccion exitosa: 444.46 kg/cm²
+2025-09-03 21:25:00,003 - model_handler_fixed - INFO - Prediccion exitosa: 444.46 kg/cm²
+2025-09-03 21:25:00,174 - model_handler_fixed - INFO - Prediccion exitosa: 444.46 kg/cm²
+2025-09-03 21:25:00,354 - model_handler_fixed - INFO - Prediccion exitosa: 444.46 kg/cm²
+2025-09-03 21:25:00,515 - model_handler_fixed - INFO - Prediccion exitosa: 444.46 kg/cm²
+2025-09-03 21:25:00,695 - model_handler_fixed - INFO - Prediccion exitosa: 444.46 kg/cm²
+2025-09-03 21:25:00,855 - model_handler_fixed - INFO - Prediccion exitosa: 444.46 kg/cm²
+2025-09-03 21:25:01,024 - model_handler_fixed - INFO - Prediccion exitosa: 444.46 kg/cm²
+2025-09-03 21:25:01,191 - model_handler_fixed - INFO - Prediccion exitosa: 444.46 kg/cm²
+2025-09-03 21:27:33,289 - __main__ - INFO - Aplicación PyQt6 inicializada correctamente
+2025-09-03 21:27:33,290 - model_handler_fixed - INFO - Cargando modelo original desde modelo_hormigon_ecuador_v1.pkl
+2025-09-03 21:27:33,682 - model_handler_fixed - INFO - Modelo RandomForestRegressor cargado correctamente
+2025-09-03 21:27:33,682 - model_handler_fixed - INFO - Cargando metadata desde modelo_metadata.json
+2025-09-03 21:27:33,683 - model_handler_fixed - INFO - Modelo y metadata cargados exitosamente
+2025-09-03 21:27:34,597 - predictor_gui - INFO - Ventana principal inicializada
+2025-09-03 21:27:34,960 - __main__ - INFO - Ventana principal mostrada
+2025-09-03 21:29:58,386 - model_handler_fixed - INFO - Prediccion exitosa: 537.35 kg/cm²
+2025-09-03 21:32:02,484 - __main__ - INFO - Aplicación PyQt6 inicializada correctamente
+2025-09-03 21:32:02,485 - model_handler_fixed - INFO - Cargando modelo original desde modelo_hormigon_ecuador_v1.pkl
+2025-09-03 21:32:02,825 - model_handler_fixed - INFO - Modelo RandomForestRegressor cargado correctamente
+2025-09-03 21:32:02,825 - model_handler_fixed - INFO - Cargando metadata desde modelo_metadata.json
+2025-09-03 21:32:02,826 - model_handler_fixed - INFO - Modelo y metadata cargados exitosamente
+2025-09-03 21:32:03,742 - predictor_gui - INFO - Ventana principal inicializada
+2025-09-03 21:32:04,077 - __main__ - INFO - Ventana principal mostrada
+2025-09-03 21:32:08,946 - model_handler_fixed - INFO - Prediccion exitosa: 537.35 kg/cm²
+2025-09-03 21:32:13,711 - model_handler_fixed - INFO - Prediccion exitosa: 531.22 kg/cm²
+2025-09-03 21:32:16,596 - model_handler_fixed - INFO - Prediccion exitosa: 532.34 kg/cm²
+2025-09-03 21:34:08,412 - __main__ - INFO - Aplicación PyQt6 inicializada correctamente
+2025-09-03 21:34:08,414 - model_handler_fixed - INFO - Cargando modelo original desde modelo_hormigon_ecuador_v1.pkl
+2025-09-03 21:34:08,940 - model_handler_fixed - INFO - Modelo RandomForestRegressor cargado correctamente
+2025-09-03 21:34:08,941 - model_handler_fixed - INFO - Cargando metadata desde modelo_metadata.json
+2025-09-03 21:34:08,941 - model_handler_fixed - INFO - Modelo y metadata cargados exitosamente
+2025-09-03 21:34:10,045 - predictor_gui - INFO - Ventana principal inicializada
+2025-09-03 21:34:10,425 - __main__ - INFO - Ventana principal mostrada
+2025-09-03 21:34:32,109 - model_handler_fixed - INFO - Prediccion exitosa: 537.35 kg/cm²
+2025-09-03 21:34:36,827 - model_handler_fixed - INFO - Prediccion exitosa: 540.80 kg/cm²
+2025-09-03 21:34:40,092 - model_handler_fixed - INFO - Prediccion exitosa: 528.22 kg/cm²
+2025-09-03 21:35:37,091 - model_handler_fixed - INFO - Prediccion exitosa: 509.15 kg/cm²
+2025-09-03 21:35:43,662 - model_handler_fixed - INFO - Prediccion exitosa: 475.53 kg/cm²
+2025-09-03 21:35:46,193 - model_handler_fixed - INFO - Prediccion exitosa: 521.31 kg/cm²
+2025-09-03 21:35:50,184 - model_handler_fixed - INFO - Prediccion exitosa: 475.53 kg/cm²
+2025-09-03 21:35:59,023 - model_handler_fixed - INFO - Prediccion exitosa: 478.70 kg/cm²
+2025-09-03 21:36:20,108 - model_handler_fixed - INFO - Prediccion exitosa: 263.89 kg/cm²
+2025-09-03 21:36:40,818 - __main__ - INFO - Aplicación PyQt6 inicializada correctamente
+2025-09-03 21:36:40,819 - model_handler_fixed - INFO - Cargando modelo original desde modelo_hormigon_ecuador_v1.pkl
+2025-09-03 21:36:41,146 - model_handler_fixed - INFO - Modelo RandomForestRegressor cargado correctamente
+2025-09-03 21:36:41,147 - model_handler_fixed - INFO - Cargando metadata desde modelo_metadata.json
+2025-09-03 21:36:41,147 - model_handler_fixed - INFO - Modelo y metadata cargados exitosamente
+2025-09-03 21:36:42,037 - predictor_gui - INFO - Ventana principal inicializada
+2025-09-03 21:36:42,377 - __main__ - INFO - Ventana principal mostrada
+2025-09-03 21:36:45,727 - model_handler_fixed - INFO - Prediccion exitosa: 537.35 kg/cm²
+2025-09-03 21:39:10,465 - __main__ - INFO - Aplicación PyQt6 inicializada correctamente
+2025-09-03 21:39:10,468 - model_handler_fixed - INFO - Cargando modelo original desde modelo_hormigon_ecuador_v1.pkl
+2025-09-03 21:39:10,882 - model_handler_fixed - INFO - Modelo RandomForestRegressor cargado correctamente
+2025-09-03 21:39:10,882 - model_handler_fixed - INFO - Cargando metadata desde modelo_metadata.json
+2025-09-03 21:39:10,882 - model_handler_fixed - INFO - Modelo y metadata cargados exitosamente
+2025-09-03 21:39:11,927 - predictor_gui - INFO - Ventana principal inicializada
+2025-09-03 21:39:12,338 - __main__ - INFO - Ventana principal mostrada
+2025-09-03 21:39:57,912 - model_handler_fixed - INFO - Prediccion exitosa: 537.35 kg/cm²
+2025-09-03 21:43:16,574 - __main__ - INFO - Aplicación PyQt6 inicializada correctamente
+2025-09-03 21:43:16,574 - model_handler_fixed - INFO - Cargando modelo original desde modelo_hormigon_ecuador_v1.pkl
+2025-09-03 21:43:16,909 - model_handler_fixed - INFO - Modelo RandomForestRegressor cargado correctamente
+2025-09-03 21:43:16,909 - model_handler_fixed - INFO - Cargando metadata desde modelo_metadata.json
+2025-09-03 21:43:16,910 - model_handler_fixed - INFO - Modelo y metadata cargados exitosamente
+2025-09-03 21:43:19,010 - predictor_gui - INFO - Ventana principal inicializada
+2025-09-03 21:43:19,347 - __main__ - INFO - Ventana principal mostrada
+2025-09-03 21:43:33,779 - model_handler_fixed - INFO - Prediccion exitosa: 537.35 kg/cm²
+2025-09-03 21:45:35,176 - __main__ - INFO - Aplicación PyQt6 inicializada correctamente
+2025-09-03 21:45:35,178 - model_handler_fixed - INFO - Cargando modelo original desde modelo_hormigon_ecuador_v1.pkl
+2025-09-03 21:45:35,516 - model_handler_fixed - INFO - Modelo RandomForestRegressor cargado correctamente
+2025-09-03 21:45:35,516 - model_handler_fixed - INFO - Cargando metadata desde modelo_metadata.json
+2025-09-03 21:45:35,516 - model_handler_fixed - INFO - Modelo y metadata cargados exitosamente
+2025-09-03 21:45:36,515 - predictor_gui - INFO - Ventana principal inicializada
+2025-09-03 21:45:36,843 - __main__ - INFO - Ventana principal mostrada
+2025-09-03 21:45:44,370 - model_handler_fixed - INFO - Prediccion exitosa: 537.35 kg/cm²
+2025-09-03 21:49:06,518 - __main__ - INFO - Aplicación PyQt6 inicializada correctamente
+2025-09-03 21:49:06,520 - model_handler_fixed - INFO - Cargando modelo original desde modelo_hormigon_ecuador_v1.pkl
+2025-09-03 21:49:06,850 - model_handler_fixed - INFO - Modelo RandomForestRegressor cargado correctamente
+2025-09-03 21:49:06,850 - model_handler_fixed - INFO - Cargando metadata desde modelo_metadata.json
+2025-09-03 21:49:06,850 - model_handler_fixed - INFO - Modelo y metadata cargados exitosamente
+2025-09-03 21:49:07,952 - predictor_gui - INFO - Ventana principal inicializada
+2025-09-03 21:49:08,364 - __main__ - INFO - Ventana principal mostrada
+2025-09-03 21:49:17,367 - model_handler_fixed - INFO - Prediccion exitosa: 444.46 kg/cm²
+2025-09-03 21:49:26,432 - model_handler_fixed - INFO - Prediccion exitosa: 444.46 kg/cm²
+2025-09-03 21:49:27,702 - model_handler_fixed - INFO - Prediccion exitosa: 444.46 kg/cm²
+2025-09-03 21:49:30,220 - model_handler_fixed - INFO - Prediccion exitosa: 439.10 kg/cm²
+2025-09-03 21:49:33,087 - model_handler_fixed - INFO - Prediccion exitosa: 443.14 kg/cm²
+2025-09-03 21:49:35,471 - model_handler_fixed - INFO - Prediccion exitosa: 537.52 kg/cm²
+2025-09-03 21:49:38,588 - model_handler_fixed - INFO - Prediccion exitosa: 234.84 kg/cm²
+2025-09-03 21:49:41,703 - model_handler_fixed - INFO - Prediccion exitosa: 234.84 kg/cm²
+2025-09-03 21:49:42,244 - model_handler_fixed - INFO - Prediccion exitosa: 234.84 kg/cm²
+2025-09-03 21:49:42,514 - model_handler_fixed - INFO - Prediccion exitosa: 234.84 kg/cm²
+2025-09-03 21:50:06,693 - model_handler_fixed - INFO - Prediccion exitosa: 537.63 kg/cm²
+2025-09-03 21:50:34,372 - model_handler_fixed - INFO - Prediccion exitosa: 234.10 kg/cm²
+2025-09-03 21:50:48,649 - model_handler_fixed - INFO - Prediccion exitosa: 240.03 kg/cm²
+2025-09-03 21:51:31,457 - model_handler_fixed - INFO - Prediccion exitosa: 444.46 kg/cm²
+2025-09-03 21:51:41,573 - model_handler_fixed - INFO - Prediccion exitosa: 511.74 kg/cm²
+2025-09-03 21:51:53,007 - model_handler_fixed - INFO - Prediccion exitosa: 522.92 kg/cm²
+2025-09-03 22:12:43,976 - model_handler_fixed - INFO - Prediccion exitosa: 453.51 kg/cm²
+2025-09-03 22:12:50,146 - model_handler_fixed - INFO - Prediccion exitosa: 576.66 kg/cm²
+2025-09-03 22:12:52,203 - model_handler_fixed - INFO - Prediccion exitosa: 219.51 kg/cm²
+2025-09-03 22:12:58,372 - model_handler_fixed - INFO - Prediccion exitosa: 222.94 kg/cm²
